@@ -1,4 +1,7 @@
 # Differentiating a Fight and No Fight Scenario in a Bar using AlexNet
+
+![image](https://user-images.githubusercontent.com/122629728/230636429-de050ec1-0212-4fc1-af98-a6d2c99e7984.png)
+
 Objective:
 The objective of this project is to differentiate between a fight and a no-fight scenario in a bar using the AlexNet deep learning architecture.
 
