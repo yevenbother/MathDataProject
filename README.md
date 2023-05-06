@@ -6,6 +6,8 @@
 The objective of this project is to differentiate between a fight and a no-fight scenario in a bar using the AlexNet deep learning architecture.
 
 # Dataset:
+
+![alt text](https://github.com/yevenbother/MathDataProject/blob/main/FightsDataSet.jpg?raw=true)
 For this project, we need a dataset consisting of images and videos of a bar setting with both fight and no-fight scenarios. We can collect this data by recording videos in different bars or using publicly available datasets that contain such videos. The dataset should be labeled as fight and no-fight to train the deep learning model.
 
 # Model Architecture:
