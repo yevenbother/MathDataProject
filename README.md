@@ -25,4 +25,4 @@ Once the model is trained and validated, it can be deployed to detect fights in 
 # Conclusion:
 ![alt text](https://github.com/yevenbother/MathDataProject/blob/main/training1.png?raw=true)
 
-The training needs more work on multiple outcomes to  aim between a fight and no-fight scenario in a bar setting using the AlexNet deep learning architecture. However, with the right training, this model can be used to detect fights in real-time, and it can help to prevent any unwanted incidents in the bar.
+The training needs more work on multiple outcomes to  aim between a fight and no-fight scenario in a bar setting using the AlexNet deep learning architecture. However, with the right training, this model can be used to detect fights in real-time, and it can help to prevent any unwanted incidents in a bar setting.
